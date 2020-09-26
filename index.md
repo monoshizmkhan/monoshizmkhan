@@ -1,3 +1,13 @@
+# Hello there!
+
+
+## I am Monoshiz Mahbub Khan.
+## I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
+
+## This page exists to showcase some of the projects I completed as part of courseworks.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/monoshizmkhan/monoshizmkhan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
