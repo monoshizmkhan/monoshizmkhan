@@ -6,11 +6,15 @@
 I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
 This page exists to showcase some of the projects I completed as part of courseworks.
 
+
+
 # Video Games
 
 ## [Kabaddi](https://github.com/monoshizmkhan/Kabaddi)
+A video game based on Kabaddi, the national sport of Bangladesh. Made using BGI library in **C++**. Served as project for the course Fundamentals of Programming Lab project, in the second semester (2016). A preview of the game can be seen [here](https://www.youtube.com/watch?v=xQOrrPYQ0u8).
 
 ## [Trapped](https://github.com/monoshizmkhan/Trapped)
+
 
 
 # Software
@@ -20,6 +24,7 @@ This page exists to showcase some of the projects I completed as part of coursew
 ## [Pharmassistant](https://github.com/monoshizmkhan/Pharmassistant)
 
 ## [CSEDU Project Hub](https://github.com/monoshizmkhan/CSEDU-Project-Hub)
+
 
 
 # Undergraduate Research Project
