@@ -6,7 +6,7 @@ I completed my B.Sc. from the department of Computer Science and Engineering, Un
 
 This page exists to showcase some of the projects I completed as part of courseworks.
 
-
+asdf
 
 ## Welcome to GitHub Pages
 
