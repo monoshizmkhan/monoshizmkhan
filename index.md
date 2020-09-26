@@ -2,11 +2,30 @@
 
 
 ## I am Monoshiz Mahbub Khan.
-I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
 
+I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
 This page exists to showcase some of the projects I completed as part of courseworks.
 
-asdf
+# Video Games
+
+## [Kabaddi](https://github.com/monoshizmkhan/Kabaddi)
+
+## [Trapped](https://github.com/monoshizmkhan/Trapped)
+
+
+# Software
+
+## [Musyc](https://github.com/monoshizmkhan/Musyc)
+
+## [Pharmassistant](https://github.com/monoshizmkhan/Pharmassistant)
+
+## [CSEDU Project Hub](https://github.com/monoshizmkhan/CSEDU-Project-Hub)
+
+
+# Undergraduate Research Project
+
+## [Bangla Abstractive Text Summarization](https://github.com/monoshizmkhan/Bangla-Abstractive-Text-Summarization)
+
 
 ## Welcome to GitHub Pages
 
