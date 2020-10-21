@@ -73,12 +73,12 @@ img {
   
 <div style="position: fixed; left: 1%; width: 45%;">
   <div style="display: flex; align-items: center; justify-content: center"><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="300" style="margin: 0 auto"></div><br><br>
-  <div style="display: flex; align-items: center; justify-content: center"><h1 style="margin: 0 auto">Monoshiz Mahbub Khan</h1></div><br>
+  <div style="display: flex; align-items: center; justify-content: center"><h1 style="margin: 0 auto">Monoshiz Mahbub Khan</h1></div>
   <div style="display: flex; align-items: center; justify-content: center">
     <a href="https://www.facebook.com/monoshiz.jishnu" class="fa fa-facebook"></a>
     <a href="https://twitter.com/monoshizjishnu" class="fa fa-twitter"></a>
     <a href="https://github.com/monoshizmkhan" class="fa fa-github"></a>
-  </div><br>
+  </div>
   <div style="display: flex; align-items: center; justify-content: center">
     <a href="live:jishnukhan" class="fa fa-skype"></a>
     <a href="mailto:2015-318-541@student.cse.du.ac.bd" class="fa fa-envelope"></a>
