@@ -1,3 +1,13 @@
+<html>
+<style>
+  footer {
+  display: none !important;
+}
+
+header {
+  display: none !important;
+}
+</style>
 <div>
   
 <div style="position: fixed; left: 1%; width: 47%;display: flex; align-items: center; justify-content: center">
@@ -55,3 +65,4 @@ A research project on constructing a dataset for the task of abstractive text su
 This work has been submitted to the special issue "Special Issue on Deep Learning for Low-Resource Natural Language Processing" (2020) of the journal ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP).<br><br><br>
 </div>
 </div>
+</html>
