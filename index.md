@@ -1,12 +1,12 @@
 <title>Monoshiz Mahbub Khan</title>
 
-<div>
+<div style="z-index:9999">
 
 <div style="position: fixed; left: 1%; width: 47%">
   <h2><a href="https://github.com/monoshizmkhan">Monoshiz Mahbub Khan</a></h2>
 </div>
 
-<div style="position: fixed; right: 1%; width: 47%; height: 50%; overflow: auto">
+<div style="position: fixed; right: 1%; width: 47%; height: 100%; overflow: auto">
   <h1>Hello there!</h1>
 
 
