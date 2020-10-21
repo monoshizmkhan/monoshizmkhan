@@ -58,7 +58,7 @@ img {
   
 <div style="position: fixed; left: 1%; width: 47%;display: flex; align-items: center; text-align: center">
   <p><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="300"></p>
-  <p><h2><a href="https://github.com/monoshizmkhan">Monoshiz Mahbub Khan</a></h2></p>
+  <p><h2>Monoshiz Mahbub Khan</h2></p>
   <a href="#" class="fa fa-facebook"></a>
   <a href="#" class="fa fa-twitter"></a>
   
