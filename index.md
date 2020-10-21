@@ -50,6 +50,11 @@ img {
   color: #000000;
 }
 
+.fa-envelope {
+  background: #FFFFFF;
+  color: #000000;
+}
+
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -74,6 +79,8 @@ img {
     <a href="https://twitter.com/monoshizjishnu" class="fa fa-twitter"></a>
     <a href="https://github.com/monoshizmkhan" class="fa fa-github"></a>
     <a href="live:jishnukhan" class="fa fa-skype"></a>
+    <a href="2015-318-541@student.cse.du.ac.bd" class="fa fa-envelope"></a>
+    <a href="jishnukhan@gmail.com" class="fa fa-envelope"></a>
   </div>
   
 </div>
