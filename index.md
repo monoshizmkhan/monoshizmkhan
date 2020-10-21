@@ -1,31 +1,9 @@
 <title>Monoshiz Mahbub Khan</title>
 
-#wrapper{
+<div>
 
-    display: flex;
-}
-
-#left{
-     flex: 1; 
-     left:0%;
-     width:50%;    
-}
-
-
-#right{
-    width:50%;
-    right:0%;
-}
-
-<div id="wrapper">
-        <div id="left" >
-          Hello there
-        </div>
-        <div id="right" >
-
-
-
-
+<div style="position: fixed; left: 0%; width: 50%">Left</div>
+<div style="position: fixed; right: 0%; width: 50%">
 # Hello there!
 
 
