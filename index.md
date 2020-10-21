@@ -23,8 +23,8 @@ header {
 }
 
 img {
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 1000px;
+  max-height: 1000px;
   width:auto;
   height:auto;
   border-radius: 50%;
