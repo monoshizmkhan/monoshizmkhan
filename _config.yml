@@ -2,3 +2,8 @@ theme: jekyll-theme-midnight
 title: Monoshiz Mahbub Khan
 avatar: "/minimal.jpg"
 round-avatar: true
+social-network-links:
+  email: "2015-318-541@student.cse.du.ac.bd"
+  facebook: Monoshiz Jishnu
+  github: monoshizmkhan
+  twitter: monoshizjishnu
