@@ -1,4 +1,6 @@
 <html>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
   footer {
   display: none !important;
@@ -24,12 +26,55 @@ img {
   border-radius: 50%;
 }
 
+.fb {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  filter: grayscale(100%);
+}
+
+.tw {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  filter: grayscale(100%);
+}
+
+.gm {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  filter: grayscale(100%);
+}
+
+.gh {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  filter: grayscale(100%);
+}
+
+
+
 </style>
 <div>
   
 <div style="position: fixed; left: 1%; width: 47%;display: flex; align-items: center; justify-content: center">
-  <img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="300"><br><br>
-  <h2><a href="https://github.com/monoshizmkhan">Monoshiz Mahbub Khan</a></h2>
+  <p><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="300"></p>
+  <p><h2><a href="https://github.com/monoshizmkhan">Monoshiz Mahbub Khan</a></h2></p>
+  
 </div>
 
 <div style="position: fixed; right: 1%; width: 47%; height: 100%; overflow: auto">
