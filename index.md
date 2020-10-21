@@ -4,7 +4,7 @@
 
 <div style="position: fixed; left: 1%; width: 47%">Left</div>
 
-<div style="position: fixed; right: 1%; width: 47%">
+<div style="position: fixed; right: 1%; width: 47%; overflow: auto">
   <h1>Hello there!</h1>
 
 
