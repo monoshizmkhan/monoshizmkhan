@@ -8,7 +8,7 @@
   <h1>Hello there!</h1>
 
 
-<h2>I am <a href="https://github.com/monoshizmkhan>Monoshiz Mahbub Khan</a></h2>
+<h2>I am <a href="https://github.com/monoshizmkhan">Monoshiz Mahbub Khan</a></h2>
 
 I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
 This page exists to showcase some of the projects I completed as part of courseworks.
