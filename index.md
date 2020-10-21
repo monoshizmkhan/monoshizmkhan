@@ -20,11 +20,15 @@ header {
   background-color: #bbbbbb;
 }
 
+img {
+  border-radius: 50%;
+}
+
 </style>
 <div>
   
 <div style="position: fixed; left: 1%; width: 47%;display: flex; align-items: center; justify-content: center">
-  <img src="me_for_g.jpg" height="200" width="200">
+  <img src="/me_for_g.jpg" height="200" width="200">
   <h2><a href="https://github.com/monoshizmkhan">Monoshiz Mahbub Khan</a></h2>
 </div>
 
