@@ -23,6 +23,10 @@ header {
 }
 
 img {
+  max-width: 150px;
+  max-height: 150px;
+  width:auto;
+  height:auto;
   border-radius: 50%;
 }
 
@@ -71,8 +75,8 @@ img {
 </style>
 <div>
   
-<div style="position: fixed; left: 1%; width: 45%;">
-  <div style="display: flex; align-items: center; justify-content: center"><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="300" style="margin: 0 auto"></div><br><br>
+<div style="position: fixed; left: 1%; width: 45%; height: 100%; overflow: auto">
+  <div style="display: flex; align-items: center; justify-content: center"><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" style="margin: 0 auto"></div><br><br>
   <div style="display: flex; align-items: center; justify-content: center"><h1 style="margin: 0 auto">Monoshiz Mahbub Khan</h1></div>
   <div style="display: flex; align-items: center; justify-content: center">
     <a href="https://www.facebook.com/monoshiz.jishnu" class="fa fa-facebook"></a>
