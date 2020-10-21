@@ -1,10 +1,3 @@
-theme: jekyll-theme-midnight
+theme: minima
 title: Monoshiz Mahbub Khan
-avatar: "/minimal.jpg"
-round-avatar: true
 page.title: Monoshiz Mahbub Khan
-social-network-links:
-  email: "2015-318-541@student.cse.du.ac.bd"
-  facebook: Monoshiz Jishnu
-  github: monoshizmkhan
-  twitter: monoshizjishnu
