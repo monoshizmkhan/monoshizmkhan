@@ -28,7 +28,7 @@ img {
 <div>
   
 <div style="position: fixed; left: 1%; width: 47%;display: flex; align-items: center; justify-content: center">
-  <img src="/me_for_g.jpg" height="200" width="200">
+  <img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="200" width="200">
   <h2><a href="https://github.com/monoshizmkhan">Monoshiz Mahbub Khan</a></h2>
 </div>
 
