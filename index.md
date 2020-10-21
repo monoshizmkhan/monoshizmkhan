@@ -7,6 +7,19 @@
 header {
   display: none !important;
 }
+
+::-webkit-scrollbar {
+  background: #000000
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #f0f0f0;
+
+  &:hover {
+    background: #dedede;
+  }
+}
+
 </style>
 <div>
   
