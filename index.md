@@ -1,5 +1,31 @@
 <title>Monoshiz Mahbub Khan</title>
 
+#wrapper{
+
+    display: flex;
+}
+
+#left{
+     flex: 1; 
+     left:0%;
+     width:50%;    
+}
+
+
+#right{
+    width:50%;
+    right:0%;
+}
+
+<div id="wrapper">
+        <div id="left" >
+          Hello there
+        </div>
+        <div id="right" >
+
+
+
+
 # Hello there!
 
 
@@ -50,3 +76,5 @@ A web-based application for the purpose of storing, sharing and viewing undergra
 ## [Bangla Abstractive Text Summarization (2019)](https://github.com/monoshizmkhan/Bangla-Abstractive-Text-Summarization)
 A research project on constructing a dataset for the task of abstractive text summarization in Bangla, and constructing a **deep learning** based model capable of using said dataset. The dataset was constructed after translating the GigaWord dataset for the task of abstractive summarization in English. The model was written in **Python** using **Tensorflow** modules. The research was conducted as part of the fourth year final project. Research was conducted under the supervison of [Dr. Muhammad Asif Hossain Khan](http://www.cse.du.ac.bd/profile/?faculty=AHK), Professor, Department of Computer Science and Engineering, University of Dhaka.
 This work has been submitted to the special issue "Special Issue on Deep Learning for Low-Resource Natural Language Processing" (2020) of the journal ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP).
+</div>
+</div>
