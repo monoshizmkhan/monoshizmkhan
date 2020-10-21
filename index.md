@@ -6,7 +6,7 @@
   <h2>I am <a href="https://github.com/monoshizmkhan">Monoshiz Mahbub Khan</a></h2>
 </div>
 
-<div style="position: fixed; right: 1%; width: 47%; height: auto; overflow: auto">
+<div style="position: fixed; right: 1%; width: 47%; height: 50%; overflow: auto">
   <h1>Hello there!</h1>
 
 
