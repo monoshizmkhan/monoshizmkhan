@@ -56,11 +56,11 @@ img {
 </style>
 <div>
   
-<div style="position: fixed; left: 1%; width: 47%;display: flex; align-items: center; text-align: center">
-  <p><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="300"></p>
-  <p><h2>Monoshiz Mahbub Khan</h2></p>
-  <a href="#" class="fa fa-facebook"></a>
-  <a href="#" class="fa fa-twitter"></a>
+<div style="position: fixed; left: 1%; width: 47%;display: flex; align-items: center; justify-content: center;">
+  <div><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="300"></div>
+  <div><h2>Monoshiz Mahbub Khan</h2></div>
+  <div><a href="#" class="fa fa-facebook"></a></div>
+  <div><a href="#" class="fa fa-twitter"></a></div>
   
 </div>
 
