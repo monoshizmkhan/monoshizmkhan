@@ -66,13 +66,13 @@ img {
 </style>
 <div>
   
-<div style="position: fixed; left: 1%; width: 47%; align-items: center">
+<div style="position: fixed; left: 1%; width: 47%; display: flex; align-items: center; justify-content: center">
   <br><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="300" style="margin: 0 auto"><br>
   <br><h2 style="margin: 0 auto">Monoshiz Mahbub Khan</h2><br>
-  <br><a href="#" class="fa fa-facebook" style="margin: 0 auto"></a><br>
-  <br><a href="#" class="fa fa-twitter" style="margin: 0 auto"></a><br>
-  <br><a href="#" class="fa fa-github" style="margin: 0 auto"></a><br>
-  <br><a href="#" class="fa fa-skype" style="margin: 0 auto"></a><br>
+  <br><a href="#" class="fa fa-facebook" style="margin: 0 auto"></a>
+  <a href="#" class="fa fa-twitter" style="margin: 0 auto"></a>
+  <a href="#" class="fa fa-github" style="margin: 0 auto"></a>
+  <a href="#" class="fa fa-skype" style="margin: 0 auto"></a>
   
 </div>
 
