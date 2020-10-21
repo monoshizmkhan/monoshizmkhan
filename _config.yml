@@ -2,6 +2,12 @@ theme: jekyll-theme-midnight
 title: Monoshiz Mahbub Khan
 avatar: "/minimal.jpg"
 round-avatar: true
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://monoshizmkhan.github.io/monoshizmkhan/"
 social-network-links:
   email: "2015-318-541@student.cse.du.ac.bd"
   facebook: Monoshiz Jishnu
