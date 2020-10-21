@@ -2,15 +2,15 @@
 
 <div>
 
-<div style="position: fixed; left: 1%; width: 47%">Left</div>
+<div style="position: fixed; left: 1%; width: 47%">
+  <h2>I am <a href="https://github.com/monoshizmkhan">Monoshiz Mahbub Khan</a></h2>
+</div>
 
-<div style="position: fixed; right: 1%; width: 47%; overflow: auto">
+<div style="position: fixed; right: 1%; width: 47%; overflow: scroll">
   <h1>Hello there!</h1>
 
 
-<h2>I am <a href="https://github.com/monoshizmkhan">Monoshiz Mahbub Khan</a></h2>
-
-I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
+I am Monoshiz Mahbub Khan. I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
 This page exists to showcase some of the coursework projects and research projects I completed.
 
 
