@@ -75,7 +75,7 @@ img {
 </style>
 <div>
   
-<div style="position: fixed; left: 1%; width: 45%; height: 100%; overflow: auto; background: white">
+<div style="position: fixed; left: 1%; width: 30%; height: 100%; overflow: auto; background: #ededed">
   <div style="display: flex; align-items: center; justify-content: center"><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" style="margin: 0 auto"></div><br><br>
   <div style="display: flex; align-items: center; justify-content: center"><h1 style="margin: 0 auto">Monoshiz Mahbub Khan</h1></div>
   <div style="display: flex; align-items: center; justify-content: center">
@@ -91,7 +91,7 @@ img {
   
 </div>
 
-<div style="position: fixed; right: 2%; width: 49%; height: 100%; overflow: auto">
+<div style="position: fixed; right: 2%; width: 65%; height: 100%; overflow: auto">
   <h1>Hello there!</h1>
 
 
