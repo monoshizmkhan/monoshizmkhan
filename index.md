@@ -3,11 +3,12 @@
 <div>
 
 <div style="position: fixed; left: 0%; width: 50%">Left</div>
+
 <div style="position: fixed; right: 0%; width: 50%">
-# Hello there!
+  <h1>Hello there!</h1>
 
 
-## I am [Monoshiz Mahbub Khan](https://github.com/monoshizmkhan)
+<h2>I am <a href="https://github.com/monoshizmkhan>Monoshiz Mahbub Khan</a></h2>
 
 I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
 This page exists to showcase some of the projects I completed as part of courseworks.
