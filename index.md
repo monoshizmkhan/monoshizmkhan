@@ -9,7 +9,7 @@ header {
 }
 
 ::-webkit-scrollbar {
-  background: #000000
+  background: #ffffff
 }
 
 ::-webkit-scrollbar-track {
