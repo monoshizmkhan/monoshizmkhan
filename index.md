@@ -2,9 +2,9 @@
 
 <div>
 
-<div style="position: fixed; left: 0%; width: 50%">Left</div>
+<div style="position: fixed; left: 1%; width: 47%">Left</div>
 
-<div style="position: fixed; right: 0%; width: 50%">
+<div style="position: fixed; right: 1%; width: 47%">
   <h1>Hello there!</h1>
 
 
