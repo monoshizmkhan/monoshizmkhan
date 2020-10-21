@@ -40,6 +40,16 @@ img {
   color: #000000;
 }
 
+.fa-github {
+  background: #FFFFFF;
+  color: #000000;
+}
+
+.fa-skype {
+  background: #FFFFFF;
+  color: #000000;
+}
+
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -61,6 +71,8 @@ img {
   <br><h2 style="margin: 0 auto">Monoshiz Mahbub Khan</h2><br>
   <br><a href="#" class="fa fa-facebook" style="margin: 0 auto"></a><br>
   <br><a href="#" class="fa fa-twitter" style="margin: 0 auto"></a><br>
+  <br><a href="#" class="fa fa-github" style="margin: 0 auto"></a><br>
+  <br><a href="#" class="fa fa-skype" style="margin: 0 auto"></a><br>
   
 </div>
 
