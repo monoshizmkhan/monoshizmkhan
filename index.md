@@ -31,13 +31,13 @@ img {
 }
 
 .fa-facebook {
-  background: #3B5998;
-  color: white;
+  background: #FFFFFF;
+  color: #000000;
 }
 
 .fa-twitter {
-  background: #55ACEE;
-  color: white;
+  background: #FFFFFF;
+  color: #000000;
 }
 
 .fa {
@@ -56,7 +56,7 @@ img {
 </style>
 <div>
   
-<div style="position: fixed; left: 1%; width: 47%;display: flex; align-items: center; justify-content: center">
+<div style="position: fixed; left: 1%; width: 47%;display: flex; align-items: center; text-align: center">
   <p><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="300"></p>
   <p><h2><a href="https://github.com/monoshizmkhan">Monoshiz Mahbub Khan</a></h2></p>
   <a href="#" class="fa fa-facebook"></a>
