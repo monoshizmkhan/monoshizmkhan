@@ -9,7 +9,7 @@ header {
 }
 
 ::-webkit-scrollbar {
-  background: #dedede
+  background: #000000
 }
 
 ::-webkit-scrollbar-track {
@@ -18,10 +18,6 @@ header {
 
 ::-webkit-scrollbar-thumb {
   background-color: #f0f0f0;
-
-  &:hover {
-    background: #dedede;
-  }
 }
 
 </style>
