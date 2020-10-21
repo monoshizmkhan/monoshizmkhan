@@ -67,8 +67,8 @@ img {
 <div>
   
 <div style="position: fixed; left: 1%; width: 45%;">
-  <div style="display: flex; align-items: center; justify-content: center"><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="300" style="margin: 0 auto"><br><br></div>
-  <div style="display: flex; align-items: center; justify-content: center"><h2 style="margin: 0 auto">Monoshiz Mahbub Khan</h2><br><br></div>
+  <div style="display: flex; align-items: center; justify-content: center"><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="300" style="margin: 0 auto"></div><br>
+  <div style="display: flex; align-items: center; justify-content: center"><h2 style="margin: 0 auto">Monoshiz Mahbub Khan</h2></div><br>
   <div style="display: flex; align-items: center; justify-content: center">
     <a href="#" class="fa fa-facebook"></a>
     <a href="#" class="fa fa-twitter"></a>
