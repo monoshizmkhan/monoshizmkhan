@@ -1,6 +1,6 @@
 <div>
-
-<div style="position: fixed; left: 1%; width: 47%">
+  
+<div style="position: fixed; left: 1%; width: 47%;display: flex; align-items: center; justify-content: center">
   <h2><a href="https://github.com/monoshizmkhan">Monoshiz Mahbub Khan</a></h2>
 </div>
 
