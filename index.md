@@ -56,7 +56,7 @@ img {
 </style>
 <div>
   
-<div style="position: fixed; left: 1%; width: 47%;">
+<div style="position: fixed; left: 1%; width: 47%; align-items: center">
   <br><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" height="300" style="margin: 0 auto"><br>
   <br><h2 style="margin: 0 auto">Monoshiz Mahbub Khan</h2><br>
   <br><a href="#" class="fa fa-facebook" style="margin: 0 auto"></a><br>
