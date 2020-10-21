@@ -145,7 +145,7 @@ This work has been submitted to the special issue "Special Issue on Deep Learnin
   <li>Affective Computing</li>
   <li>Machine Learning</li>
   <li>Human-Computer Interaction</li>
-</ul>
+</ul><br><br><br>
 
 </div>
 </div>
