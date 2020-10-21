@@ -81,8 +81,8 @@ img {
   </div><br><br>
   <div style="display: flex; align-items: center; justify-content: center">
     <a href="live:jishnukhan" class="fa fa-skype"></a>
-    <a href="2015-318-541@student.cse.du.ac.bd" class="fa fa-envelope"></a>
-    <a href="jishnukhan@gmail.com" class="fa fa-envelope"></a>
+    <a href="mailto:2015-318-541@student.cse.du.ac.bd" class="fa fa-envelope"></a>
+    <a href="mailto:jishnukhan@gmail.com" class="fa fa-envelope"></a>
   </div>
   
 </div>
