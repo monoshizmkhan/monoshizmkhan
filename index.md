@@ -136,9 +136,9 @@ function openTab(evt, tabName) {
   
 <div style="position: fixed; left: 1%; width: 30%; height: 100%; overflow: auto; background: white">
   <div style="display: flex; align-items: center; justify-content: center"><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" style="margin: 0 auto"></div><br><br>
-  <div style="display: flex; align-items: center; justify-content: center"><h1 style="margin: 0 auto">Monoshiz Mahbub Khan</h1></div>
-  <div style="display: flex; align-items: center; justify-content: center"><h2 style="margin: 0 auto; font-weight: normal; padding-bottom: 2%">(মনসিজ মাহবুব খান)</h1></div>
-  <div style="display: flex; align-items: center; justify-content: center"><h2 style="margin: 0 auto; font-weight: normal">Dhaka, Bangladesh</h2></div>
+  <div style="display: flex; align-items: center; justify-content: center"><p style="font-size: 150%; margin: 0 auto">Monoshiz Mahbub Khan</p></div>
+  <div style="display: flex; align-items: center; justify-content: center"><p style="font-size: 130%; margin: 0 auto; font-weight: normal; padding-bottom: 2%">(মনসিজ মাহবুব খান)</p></div>
+  <div style="display: flex; align-items: center; justify-content: center"><p style="font-size: 130%; margin: 0 auto; font-weight: normal">Dhaka, Bangladesh</p></div>
   <div style="display: flex; align-items: center; justify-content: center">
     <a href="mailto:2015-318-541@student.cse.du.ac.bd" class="fa fa-envelope"></a>
     <a href="live:jishnukhan" class="fa fa-skype"></a>
@@ -163,6 +163,14 @@ function openTab(evt, tabName) {
   <p style="font-size: 135%">
   My name is Monoshiz Mahbub Khan. I am from Dhaka, Bangladesh. I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
   This page exists to showcase some of the coursework projects and research projects I completed.
+  </p>
+</div>
+
+
+<div id="Education" class="tabcontent">
+  <p style="font-size: 155%">
+	I completed my undergraduate studies on Computer Science and Engineering from University of Dhaka in 2020. <br>
+	Before that, I studied at Udayan Higher Secondary School and College from 2002 to 2015.
   </p>
 </div>
 
@@ -208,14 +216,6 @@ function openTab(evt, tabName) {
 This work has been submitted to the special issue "Special Issue on Deep Learning for Low-Resource Natural Language Processing" (2020) of the journal ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP).</p>
 
 
-</div>
-
-
-<div id="Education" class="tabcontent">
-  <p style="font-size: 155%">
-	I completed my undergraduate studies on Computer Science and Engineering from University of Dhaka in 2020. <br>
-	Before that, I studied at Udayan Higher Secondary School and College from 2002 to 2015.
-  </p>
 </div>
 
 
