@@ -154,8 +154,9 @@ function openTab(evt, tabName) {
 <div style="position: fixed; top: 5%; right: 2%; width: 65%; height: 100%; padding-bottom: 5%; overflow: auto">
 <div class="tab">
 	<button id="Hm" class="tablinks" onclick="openTab(event, 'Home')">Home</button>
+	<button class="tablinks" onclick="openTab(event, 'Education')">Education</button>
+	<button class="tablinks" onclick="openTab(event, 'ResearchInterests')">Research Interests</button>
 	<button class="tablinks" onclick="openTab(event, 'PastProjects')">Past Projects</button>
-	<button class="tablinks" onclick="openTab(event, 'Research')">Research Interests</button>
 </div>
 
 <div id="Home" class="tabcontent">
@@ -166,6 +167,18 @@ function openTab(evt, tabName) {
   </p>
 </div>
 
+<div id="Education" class="tabcontent">
+  <p style="font-size: 155%">
+	I completed my undergraduate studies on Computer Science and Engineering from University of Dhaka in 2020. <br>
+	Before that, I studied at Udayan Higher Secondary School and College from 2002 to 2015.
+  </p>
+</div>
+
+<div id="ResearchInterests" class="tabcontent">
+  <p style="font-size: 155%">
+	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.
+  </p>
+</div>
 
 <div id="PastProjects" class="tabcontent">
 
