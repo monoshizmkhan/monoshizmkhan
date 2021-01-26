@@ -150,7 +150,7 @@ function openTab(evt, tabName) {
   
 </div>
 
-<div style="position: fixed; top: 5%; right: 2%; width: 65%; height: 100%; overflow: auto">
+<div style="position: fixed; top: 5%; right: 2%; width: 65%; height: 100%; padding-bottom: 2%; overflow: auto">
 <div class="tab">
 	<button id="Hm" class="tablinks" onclick="openTab(event, 'Home')">Home</button>
 	<button class="tablinks" onclick="openTab(event, 'Education')">Education</button>
@@ -226,6 +226,5 @@ This work has been submitted to the special issue "Special Issue on Deep Learnin
 </div>
 
 
-</div>
 </div>
 </html>
