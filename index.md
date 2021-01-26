@@ -155,7 +155,6 @@ function openTab(evt, tabName) {
 	<button id="Hm" class="tablinks" onclick="openTab(event, 'Home')">Home</button>
 	<button class="tablinks" onclick="openTab(event, 'Education')">Education</button>
 	<button class="tablinks" onclick="openTab(event, 'PastProjects')">Past Projects</button>
-	<button class="tablinks" onclick="openTab(event, 'ResearchInterests')">Research Interests</button>
 </div>
 
 <div id="Home" class="tabcontent">
@@ -225,11 +224,6 @@ This work has been submitted to the special issue "Special Issue on Deep Learnin
   </p>
 </div>
 
-<div id="blank" class="tabcontent">
-  <p style="font-size: 155%">
-	
-  </p>
-</div>
 
 
 </div>
