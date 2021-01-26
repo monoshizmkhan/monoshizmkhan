@@ -218,7 +218,6 @@ This work has been submitted to the special issue "Special Issue on Deep Learnin
 
 </div>
 
-
 <div id="Research" class="tabcontent">
   <p style="font-size: 155%">I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.</p>
 </div>
