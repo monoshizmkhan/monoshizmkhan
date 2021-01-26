@@ -112,7 +112,7 @@ img {
 
 <script>
 
-window.onload = function(){document.getElementById('Hm').click();}
+window.onload = function(){alert("debug");document.getElementById('Hm').click();}
 
 function openTab(evt, tabName) {
   var i, tabcontent, tablinks;
