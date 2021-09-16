@@ -141,8 +141,8 @@ function openTab(evt, tabName) {
   <div style="display: flex; align-items: center; justify-content: center"><p style="font-size: 130%; margin: 0 auto; font-weight: normal; padding-bottom: 2%">(মনসিজ মাহবুব খান)</p></div>
   <div style="display: flex; align-items: center; justify-content: center"><p style="font-size: 130%; margin: 0 auto; font-weight: normal">Dhaka, Bangladesh</p></div>
   <div style="display: flex; align-items: center; justify-content: center">
-    <a href="mailto:2015-318-541@student.cse.du.ac.bd" class="fa fa-envelope"></a>
     <a href="mailto:mk7989@g.rit.edu" class="fa fa-envelope"></a>
+    <a href="mailto:2015-318-541@student.cse.du.ac.bd" class="fa fa-envelope"></a>
     <!-- 
 	<a href="live:jishnukhan" class="fa fa-skype"></a> 
     -->
@@ -165,8 +165,7 @@ function openTab(evt, tabName) {
 <div id="Home" class="tabcontent">
   <p style="font-size: 155%"><b>Hello There!</b></p>
   <p style="font-size: 135%">
-  My name is Monoshiz Mahbub Khan. I will be starting my PhD in Computing and Information Sciences at Rochester Institute of Technology in Fall 2021. I am from Dhaka, Bangladesh. I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
-  This page exists to showcase some of the coursework projects and research projects I completed.
+  My name is Monoshiz Mahbub Khan. I am a student in the PhD in Computing and Information Sciences program at Rochester Institute of Technology, having started in Fall 2021. I am also a graduate research assistant under <a href="https://zhe-yu.github.io/">Professor Zhe Yu</a> at <a href="https://github.com/hil-se/hil-se/blob/main/README.md">hil-se lab</a>.. I am from Dhaka, Bangladesh. I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
   </p>
 </div>
 
