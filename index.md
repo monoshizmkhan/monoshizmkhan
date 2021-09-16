@@ -165,7 +165,7 @@ function openTab(evt, tabName) {
 <div id="Home" class="tabcontent">
   <p style="font-size: 155%"><b>Hello There!</b></p>
   <p style="font-size: 135%">
-  My name is Monoshiz Mahbub Khan. I am a student in the PhD in Computing and Information Sciences program at Rochester Institute of Technology, having started in Fall 2021. I am also a graduate research assistant under <a href="https://zhe-yu.github.io/">Professor Zhe Yu</a> at <a href="https://github.com/hil-se/hil-se/blob/main/README.md">hil-se lab</a>.. I am from Dhaka, Bangladesh. I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
+  My name is Monoshiz Mahbub Khan. I am a student in the PhD in Computing and Information Sciences program at Rochester Institute of Technology, having started in Fall 2021. I am also a graduate research assistant under <a href="https://zhe-yu.github.io/">Dr. Zhe Yu</a> at <a href="https://github.com/hil-se/hil-se/blob/main/README.md">hil-se lab</a>.. I am from Dhaka, Bangladesh. I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
   </p>
 </div>
 
