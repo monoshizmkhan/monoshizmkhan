@@ -178,7 +178,8 @@ function openTab(evt, tabName) {
 
 <div id="ResearchInterests" class="tabcontent">
   <p style="font-size: 155%">
-	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.
+	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.<br>
+	Currently I am working on trace link prediction between natural language and programming language artifacts.
   </p>
 </div>
 
@@ -230,7 +231,8 @@ This work has been submitted to the special issue "Special Issue on Deep Learnin
 
 <div id="Research" class="tabcontent">
   <p style="font-size: 155%">
-	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.
+	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.<br>
+	Currently I am working on trace link prediction between natural language and programming language artifacts.
   </p>
 </div>
 </div>
