@@ -216,12 +216,15 @@ function openTab(evt, tabName) {
 
 <p style="font-size: 135%"><a href="https://github.com/monoshizmkhan/CSEDU-Project-Hub">CSEDU Project Hub (2019)</a></p>
 <p style="font-size: 125%; padding-bottom: 4%">A web-based application for the purpose of storing, sharing and viewing undergrad research projects. Written in <b>Python</b> and <b>JavaScript</b> as the Internet Programming Lab project in the seventh semester (2019).</p>
+	
+<p style="font-size: 135%">BackPack (2022)</p>
+<p style="font-size: 125%; padding-bottom: 4%">An e-store application for selling hiking, fishing, camping and other miscellaneous equipment. Written using the <b>Java Spring</b> framework and <b>Angular</b> as the Foundations of Software Engineering project (2021).</p>
 
 <p style="font-size: 155%">Undergraduate Research Project</p>
 
 <p style="font-size: 135%"><a href="https://github.com/monoshizmkhan/Bangla-Abstractive-Text-Summarization">Bangla Abstractive Text Summarization using Encoder-Decoder Model (2019)</a></p>
-<p style="font-size: 125%; padding-bottom: 8%">A research project on constructing a dataset for the task of abstractive text summarization in Bangla, and constructing a <b>deep learning</b> based model capable of using said dataset. The dataset was constructed after translating the GigaWord dataset for the task of abstractive summarization in English. The model was written in <b>Python</b> using <b>Tensorflow</b> modules. The research was conducted as part of the fourth year final project. Research was conducted under the supervison of <a href="http://www.cse.du.ac.bd/profile/?faculty=AHK">Dr. Muhammad Asif Hossain Khan</a>, Professor, Department of Computer Science and Engineering, University of Dhaka.
-This work has been submitted to the special issue "Special Issue on Deep Learning for Low-Resource Natural Language Processing" (2020) of the journal ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP).</p>
+<p style="font-size: 125%; padding-bottom: 8%">A research project on constructing a dataset for the task of abstractive text summarization in Bangla, and constructing a <b>deep learning</b> based model capable of using said dataset. The dataset was constructed after translating the GigaWord dataset for the task of abstractive summarization in English. The model was written in <b>Python</b> using <b>Tensorflow</b> modules. The research was conducted as part of the fourth year final project. Research was conducted under the supervison of <a href="http://www.cse.du.ac.bd/profile/?faculty=AHK">Dr. Muhammad Asif Hossain Khan</a>, Professor, Department of Computer Science and Engineering, University of Dhaka.</p>
+
 
 
 </div>
