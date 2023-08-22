@@ -179,7 +179,7 @@ function openTab(evt, tabName) {
 <div id="ResearchInterests" class="tabcontent">
   <p style="font-size: 155%">
 	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.<br>
-	Currently I am working on trace link prediction between natural language and programming language artifacts.
+	Currently I am working on the code search task to retrieve programming language artifacts for natural language queries.
   </p>
 </div>
 
@@ -235,7 +235,7 @@ function openTab(evt, tabName) {
 <div id="Research" class="tabcontent">
   <p style="font-size: 155%">
 	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.<br>
-	Currently I am working on trace link prediction between natural language and programming language artifacts.
+	Currently I am working on the code search task to retrieve programming language artifacts for natural language queries.
   </p>
 </div>
 </div>
