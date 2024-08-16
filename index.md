@@ -188,14 +188,15 @@ function openTab(evt, tabName) {
 
 <div id="Education" class="tabcontent">
   <p style="font-size: 155%">
-	I completed my undergraduate studies on Computer Science and Engineering from University of Dhaka in 2020. <br>
+	I am currently pursuing my PhD in Computing and Information Sciences from Rochester Institute of Technology, having started in 2021.<br><br>
+	I completed my undergraduate studies on Computer Science and Engineering from University of Dhaka in 2020. <br><br>
 	Before that, I studied at Udayan Higher Secondary School and College from 2002 to 2015.
   </p>
 </div>
 
 <div id="ResearchInterests" class="tabcontent">
   <p style="font-size: 155%">
-	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.<br>
+	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.<br><br>
 	Throughout my doctoral studies, I have worked on the code search task to retrieve programming language artifacts for natural language queries. I have also been working on the preference learning task of modeling 
 	comparative human decisions through deep learning models.
   </p>
@@ -203,7 +204,7 @@ function openTab(evt, tabName) {
 
 <div id="PastProjects" class="tabcontent">
 
-<p style="font-size: 155%;">Video Games</p>
+<p style="font-size: 155%;"><b>Video Games</b></p>
 
 
 <p style="font-size: 135%"><a href="https://github.com/monoshizmkhan/Kabaddi">Kabaddi (2016)</a></p>
@@ -216,7 +217,7 @@ function openTab(evt, tabName) {
 
 
 
-<p style="font-size: 155%;">Software</p>
+<p style="font-size: 155%;"><b>Software</b></p>
 
 
 
@@ -238,7 +239,7 @@ function openTab(evt, tabName) {
 <p style="font-size: 135%">BackPack (2022)</p>
 <p style="font-size: 125%; padding-bottom: 4%">An e-store application for selling hiking, fishing, camping and other miscellaneous equipment. Written using the <b>Java Spring</b> framework and <b>Angular</b> as the Foundations of Software Engineering project (2021).</p>
 
-<p style="font-size: 155%">Undergraduate Research Project</p>
+<p style="font-size: 155%"><b>Undergraduate Research Project</b></p>
 
 <p style="font-size: 135%"><a href="https://github.com/monoshizmkhan/Bangla-Abstractive-Text-Summarization">Bangla Abstractive Text Summarization using Encoder-Decoder Model (2019)</a></p>
 <p style="font-size: 125%; padding-bottom: 8%">A research project on constructing a dataset for the task of abstractive text summarization in Bangla, and constructing a <b>deep learning</b> based model capable of using said dataset. The dataset was constructed after translating the GigaWord dataset for the task of abstractive summarization in English. The model was written in <b>Python</b> using <b>Tensorflow</b> modules. The research was conducted as part of the fourth year final project. Research was conducted under the supervison of <a href="http://www.cse.du.ac.bd/profile/?faculty=AHK">Dr. Muhammad Asif Hossain Khan</a>, Professor, Department of Computer Science and Engineering, University of Dhaka.</p>
@@ -252,8 +253,9 @@ function openTab(evt, tabName) {
 
 <div id="Research" class="tabcontent">
   <p style="font-size: 155%">
-	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.<br>
-	Currently I am working on the code search task to retrieve programming language artifacts for natural language queries.
+	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.<br><br>
+	Throughout my doctoral studies, I have worked on the code search task to retrieve programming language artifacts for natural language queries. I have also been working on the preference learning task of modeling 
+	comparative human decisions through deep learning models.
   </p>
 </div>
 </div>
