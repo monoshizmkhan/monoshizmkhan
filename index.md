@@ -150,7 +150,7 @@ function openTab(evt, tabName) {
   <div style="display: flex; align-items: center; justify-content: center">
     <a href="https://twitter.com/monoshizjishnu" class="fa fa-twitter"></a>
     <a href="https://github.com/monoshizmkhan" class="fa fa-github"></a>
-    <a href="[https://github.com/monoshizmkhan](https://www.linkedin.com/in/monoshiz-mahbub-khan-85959924b/)" class="fa fa-linkedin"></a>
+    <a href="https://www.linkedin.com/in/monoshiz-mahbub-khan-85959924b/" class="fa fa-linkedin"></a>
   </div>
   
 </div>
