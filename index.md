@@ -136,13 +136,13 @@ function openTab(evt, tabName) {
 <div>
   
 <div style="position: fixed; left: 1%; width: 30%; height: 100%; overflow: auto; background: white">
-  <div style="display: flex; align-items: center; justify-content: center"><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_for_g.jpg?raw=true" style="margin: 0 auto"></div><br><br>
+  <div style="display: flex; align-items: center; justify-content: center"><img src="https://github.com/monoshizmkhan/monoshizmkhan/blob/master/me_in_bonn.jpg?raw=true" style="margin: 0 auto"></div><br><br>
   <div style="display: flex; align-items: center; justify-content: center"><p style="font-size: 150%; margin: 0 auto">Monoshiz Mahbub Khan</p></div>
   <div style="display: flex; align-items: center; justify-content: center"><p style="font-size: 130%; margin: 0 auto; font-weight: normal; padding-bottom: 2%">(মনসিজ মাহবুব খান)</p></div>
   <div style="display: flex; align-items: center; justify-content: center"><p style="font-size: 130%; margin: 0 auto; font-weight: normal">Dhaka, Bangladesh</p></div>
   <div style="display: flex; align-items: center; justify-content: center">
     <a href="mailto:mk7989@g.rit.edu" class="fa fa-envelope"></a>
-    <a href="mailto:2015-318-541@student.cse.du.ac.bd" class="fa fa-envelope"></a>
+    <a href="mailto:jishnukhan@gmail.com" class="fa fa-envelope"></a>
     <!-- 
 	<a href="live:jishnukhan" class="fa fa-skype"></a> 
     -->
@@ -150,6 +150,7 @@ function openTab(evt, tabName) {
   <div style="display: flex; align-items: center; justify-content: center">
     <a href="https://twitter.com/monoshizjishnu" class="fa fa-twitter"></a>
     <a href="https://github.com/monoshizmkhan" class="fa fa-github"></a>
+    <a href="[https://github.com/monoshizmkhan](https://www.linkedin.com/in/monoshiz-mahbub-khan-85959924b/)" class="fa fa-linkedin"></a>
   </div>
   
 </div>
@@ -165,7 +166,22 @@ function openTab(evt, tabName) {
 <div id="Home" class="tabcontent">
   <p style="font-size: 155%"><b>Hello There!</b></p>
   <p style="font-size: 135%">
-  My name is Monoshiz Mahbub Khan. I am a student in the PhD in Computing and Information Sciences program at Rochester Institute of Technology, having started in Fall 2021. I am also a graduate research assistant under <a href="https://zhe-yu.github.io/">Dr. Zhe Yu</a> at <a href="https://github.com/hil-se/hil-se/blob/main/README.md">hil-se lab</a>. I am from Dhaka, Bangladesh. I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020.
+  My name is Monoshiz Mahbub Khan. I am a PhD candidate in the PhD in Computing and Information Sciences program at Rochester Institute of Technology, having started in Fall 2021. I am also a graduate research assistant under <a href="https://zhe-yu.github.io/">Dr. Zhe Yu</a> at <a href="https://github.com/hil-se/hil-se/blob/main/README.md">hil-se lab</a>. I am from Dhaka, Bangladesh. I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020. <br> <br>
+  I have also worked as a graduate teaching assistant for the course IDAI-720: Research Methods for Artificial Intelligence at Rochester Institute of Technology, taught by Dr. Zhe Yu and Dr. Esa Rantanen. <br> <br>
+  From June to August of 2024, I worked as an Intern at ABB AG in Mannheim, Germany through the DAAD Rise Professional Program 2024.
+  </p>
+</div>
+
+<div id="Experience" class="tabcontent">
+  <p style="font-size: 155%">
+	<b>Graduate Research Assistant (August 2021 - December 2023, September 2024 - Present)</b><br>
+	   I have been working as a graduate research assistant in the Lab of Human-In-the-Loop Software Engineering at Rochester Institute of Technology under the guidance of Dr. Zhe Yu, conducting research primarily on 	   the code search and preference learning tasks.<br><br>
+	  
+	<b>Graduate Teaching Assistant</b><br>
+ 	   Worked as a graduate teaching assistant for the course IDAI-720: Research Methods for Artificial Intelligence at Rochester Institute of Technology. Responsibilities included grading and hosting office hours. 	   Course was taught by Dr. Zhe Yu and Dr. Esa Rantanen.<br><br>
+     
+	<b>Intern</b><br>
+ 	   Worked as an intern at ABB AG at the Mannheim, Germany office. Work during the internship focused on a Named Entity Recognition project using various methods, including language models, deep learning models 	   and more. The project was conducted under the supervision of Nika Strem. The internship was obtained through the DAAD Rise Professional Program 2024. <br><br>
   </p>
 </div>
 
@@ -179,7 +195,8 @@ function openTab(evt, tabName) {
 <div id="ResearchInterests" class="tabcontent">
   <p style="font-size: 155%">
 	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.<br>
-	Currently I am working on the code search task to retrieve programming language artifacts for natural language queries.
+	Throughout my doctoral studies, I have worked on the code search task to retrieve programming language artifacts for natural language queries. I have also been working on the preference learning task of modeling 
+	comparative human decisions through deep learning models.
   </p>
 </div>
 
