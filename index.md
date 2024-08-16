@@ -152,6 +152,9 @@ function openTab(evt, tabName) {
     <a href="https://github.com/monoshizmkhan" class="fa fa-github"></a>
     <a href="https://www.linkedin.com/in/monoshiz-mahbub-khan-85959924b/" class="fa fa-linkedin"></a>
   </div>
+  <div style="display: flex; align-items: center; justify-content: center">
+    <a href="CV - Monoshiz Mahbub Khan.pdf" class="fa fa-file" download="CV - Monoshiz Mahbub Khan" title="Download my CV!"></a>
+  </div>
   
 </div>
 
