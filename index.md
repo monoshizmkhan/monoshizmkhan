@@ -159,6 +159,7 @@ function openTab(evt, tabName) {
 <div class="tab">
 	<button id="Hm" class="tablinks" onclick="openTab(event, 'Home')">Home</button>
 	<button class="tablinks" onclick="openTab(event, 'Education')">Education</button>
+	<button class="tablinks" onclick="openTab(event, 'Experience')">Experience</button>
 	<button class="tablinks" onclick="openTab(event, 'ResearchInterests')">Research Interests</button>
 	<button class="tablinks" onclick="openTab(event, 'PastProjects')">Past Projects</button>
 </div>
