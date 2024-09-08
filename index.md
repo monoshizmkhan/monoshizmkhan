@@ -207,6 +207,19 @@ function openTab(evt, tabName) {
 
 <div id="PastProjects" class="tabcontent">
 
+<p style="font-size: 155%;"><b>Research Projects</b></p>
+
+<p style="font-size: 135%"><a href="https://github.com/monoshizmkhan/Bangla-Abstractive-Text-Summarization">Bangla Abstractive Text Summarization using Encoder-Decoder Model (2019-2020)</a></p>
+<p style="font-size: 125%; padding-bottom: 8%">A research project on constructing a dataset for the task of abstractive text summarization in Bangla, and constructing a <b>deep learning</b> based model capable of using said dataset. The dataset was constructed after translating the GigaWord dataset for the task of abstractive summarization in English. The model was written in <b>Python</b> using <b>Tensorflow</b> modules. The research was conducted as part of the fourth year final project. Research was conducted under the supervison of <a href="http://www.cse.du.ac.bd/profile/?faculty=AHK">Dr. Muhammad Asif Hossain Khan</a>, Professor, Department of Computer Science and Engineering, University of Dhaka.</p>
+
+<p style="font-size: 135%"><a href="https://anonymous.4open.science/r/CodeSearch-6AC7/README.md">Code Search (2021-2024)</a></p>
+<p style="font-size: 125%; padding-bottom: 8%">Research project focusing on retrieving programming language artifacts related to some natural language queries from a pool of possible programming language artifacts, using dual encoder models.<br>
+Model is built in Python using TensorFlow modules. The research is being conducted under the guidance of Dr. Zhe Yu.</p>
+
+<p style="font-size: 135%"><a href="https://github.com/monoshizmkhan/comparabilityTask">Preference Learning (2023-2024)</a></p>
+<p style="font-size: 125%; padding-bottom: 8%">Research project focusing on modelling comparative judgements using machine learning. The model is built using TensorFlow modules. The research is being conducted under the guidance of Dr. Zhe Yu.</p>
+
+
 <p style="font-size: 155%;"><b>Video Games</b></p>
 
 
@@ -241,11 +254,6 @@ function openTab(evt, tabName) {
 	
 <p style="font-size: 135%">BackPack (2022)</p>
 <p style="font-size: 125%; padding-bottom: 4%">An e-store application for selling hiking, fishing, camping and other miscellaneous equipment. Written using the <b>Java Spring</b> framework and <b>Angular</b> as the Foundations of Software Engineering project (2021).</p>
-
-<p style="font-size: 155%"><b>Undergraduate Research Project</b></p>
-
-<p style="font-size: 135%"><a href="https://github.com/monoshizmkhan/Bangla-Abstractive-Text-Summarization">Bangla Abstractive Text Summarization using Encoder-Decoder Model (2019)</a></p>
-<p style="font-size: 125%; padding-bottom: 8%">A research project on constructing a dataset for the task of abstractive text summarization in Bangla, and constructing a <b>deep learning</b> based model capable of using said dataset. The dataset was constructed after translating the GigaWord dataset for the task of abstractive summarization in English. The model was written in <b>Python</b> using <b>Tensorflow</b> modules. The research was conducted as part of the fourth year final project. Research was conducted under the supervison of <a href="http://www.cse.du.ac.bd/profile/?faculty=AHK">Dr. Muhammad Asif Hossain Khan</a>, Professor, Department of Computer Science and Engineering, University of Dhaka.</p>
 
 
 
