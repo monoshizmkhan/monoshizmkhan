@@ -217,7 +217,7 @@ function openTab(evt, tabName) {
 Model is built in Python using TensorFlow modules. The research was conducted under the guidance of Dr. Zhe Yu. This work has recently been <a href="https://link.springer.com/article/10.1007/s10664-024-10580-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241030&utm_content=10.1007/s10664-024-10580-3">published in Empirical Software Engineering Journal.</a></p>
 
 <p style="font-size: 135%"><a href="https://github.com/monoshizmkhan/comparabilityTask">Preference Learning (2023-2024)</a></p>
-<p style="font-size: 125%; padding-bottom: 8%">Research project focusing on modelling comparative judgements using machine learning. The model is built using TensorFlow modules. The research is being conducted under the guidance of Dr. Zhe Yu.</p>
+<p style="font-size: 125%; padding-bottom: 8%">Research project focusing on modelling comparative judgements on text-based data using large language model based architectures. The model is built using PyTorch modules. The research is being conducted under the guidance of Dr. Zhe Yu.</p>
 
 
 </div>
