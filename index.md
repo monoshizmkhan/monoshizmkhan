@@ -172,8 +172,8 @@ function openTab(evt, tabName) {
 <div id="Home" class="tabcontent">
   <p style="font-size: 155%"><b>Hello There!</b></p>
   <p style="font-size: 135%">
-  My name is Monoshiz Mahbub Khan. I am a PhD candidate in the PhD in Computing and Information Sciences program at Rochester Institute of Technology, having started in Fall 2021. I am also a graduate research assistant under <a href="https://zhe-yu.github.io/">Dr. Zhe Yu</a> at <a href="https://github.com/hil-se/hil-se/blob/main/README.md">hil-se lab</a>. I am from Dhaka, Bangladesh. I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020. <br> <br>
-  I have also worked as a graduate teaching assistant for the course IDAI-720: Research Methods for Artificial Intelligence at Rochester Institute of Technology, taught by Dr. Zhe Yu and Dr. Esa Rantanen. <br> <br>
+  My name is Monoshiz Mahbub Khan. I am a PhD candidate in the PhD in Computing and Information Sciences program at Rochester Institute of Technology, having started in Fall 2021. I have also been a graduate research assistant under <a href="https://zhe-yu.github.io/">Dr. Zhe Yu</a> at <a href="https://github.com/hil-se/hil-se/blob/main/README.md">hil-se lab</a>. I am from Dhaka, Bangladesh. I completed my B.Sc. from the department of Computer Science and Engineering, University of Dhaka in 2020. <br> <br>
+  I have also worked as a graduate teaching assistant for the course IDAI-720: Research Methods for Artificial Intelligence, taught by Dr. Zhe Yu and Dr. Esa Rantanen, and for the course IDAI-710: Fundamentals of Machine Learning, taught by Dr. James Heard. Both of these courses were taught at Rochester Institute of Technology.<br> <br>
   From June to August of 2024, I worked as an Intern at ABB AG in Mannheim, Germany through the DAAD Rise Professional Program 2024.
   </p>
 </div>
