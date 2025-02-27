@@ -218,7 +218,7 @@ function openTab(evt, tabName) {
 <p style="font-size: 125%; padding-bottom: 8%">Research project focusing on retrieving programming language artifacts related to some natural language queries from a pool of possible programming language artifacts, using dual encoder models.<br>
 Model is built in Python using TensorFlow modules. The research was conducted under the guidance of Dr. Zhe Yu. This work has recently been <a href="https://link.springer.com/article/10.1007/s10664-024-10580-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241030&utm_content=10.1007/s10664-024-10580-3">published in Empirical Software Engineering Journal.</a></p>
 
-<p style="font-size: 135%"><a href="https://github.com/hil-se/PairwiseTask">Comparative judgment(2023-Present)</a></p>
+<p style="font-size: 135%"><a href="https://github.com/hil-se/PairwiseTask">Comparative judgment (2023-Present)</a></p>
 <p style="font-size: 125%; padding-bottom: 8%">Research project focusing on modeling comparative judgments on story point estimation data from software development, using various architectures, including large language model based structures. The framework is built using PyTorch modules. The research is being conducted under the guidance of Dr. Zhe Yu.</p>
 
 
