@@ -166,7 +166,7 @@ function openTab(evt, tabName) {
 	<button class="tablinks" onclick="openTab(event, 'ResearchExperience')">Research Experience</button>
 	<button class="tablinks" onclick="openTab(event, 'Publications')">Publications</button>
 	<button class="tablinks" onclick="openTab(event, 'ResearchInterests')">Research Interests</button>
-	<button class="tablinks" onclick="openTab(event, 'PastProjects')">Past Projects</button>
+	<button class="tablinks" onclick="openTab(event, 'PastProjects')">Course Projects</button>
 </div>
 
 <div id="Home" class="tabcontent">
@@ -180,11 +180,13 @@ function openTab(evt, tabName) {
 
 <div id="Experience" class="tabcontent">
   <p style="font-size: 155%">
-	<b>Graduate Research Assistant (August 2021 - December 2023, September 2024 - Present)</b><br>
+	<b>Graduate Research Assistant (August 2021 - December 2023, September 2024 - December 2024)</b><br>
 	   I have been working as a graduate research assistant in the Lab of Human-In-the-Loop Software Engineering at Rochester Institute of Technology under the guidance of Dr. Zhe Yu, conducting research primarily on 	   the code search and preference learning tasks.<br><br>
 	  
 	<b>Graduate Teaching Assistant</b><br>
- 	   Worked as a graduate teaching assistant for the course IDAI-720: Research Methods for Artificial Intelligence at Rochester Institute of Technology. Responsibilities included grading and hosting office hours. 	   Course was taught by Dr. Zhe Yu and Dr. Esa Rantanen.<br><br>
+ 	   Worked as a graduate teaching assistant for the following courses -<br>
+     	   <b>IDAI-720: Research Methods for Artificial Intelligence (Spring 2024)</b> at Rochester Institute of Technology. Responsibilities included grading assignments and hosting office hours. Course was taught by Dr. Zhe Yu and Dr. Esa Rantanen.<br>
+	 <b>IDAI-710: Fundamentals of Machine Learning (Spring 2025)</b> at Rochester Institute of Technology. Responsibilities included grading homeworks, hosting office hours, and holding occasional lectures and review classes. Course was taught by Dr. James Heard.<br><br>
      
 	<b>Intern</b><br>
  	   Worked as an intern at ABB AG at the Mannheim, Germany office. Work during the internship focused on a Named Entity Recognition project using various methods, including language models, deep learning models 	   and more. The project was conducted under the supervision of Nika Strem. The internship was obtained through the DAAD Rise Professional Program 2024. <br><br>
@@ -202,8 +204,8 @@ function openTab(evt, tabName) {
 <div id="ResearchInterests" class="tabcontent">
   <p style="font-size: 155%">
 	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.<br><br>
-	Throughout my doctoral studies, I have worked on the code search task to retrieve programming language artifacts for natural language queries. I have also been working on the preference learning task of modeling 
-	comparative human decisions through deep learning models.
+	Throughout my doctoral studies, I have worked on the code search task to retrieve programming language artifacts for natural language queries. I have also been working on the task of modeling 
+	comparative human judgments within the task of story point estimation.
   </p>
 </div>
 
@@ -216,8 +218,8 @@ function openTab(evt, tabName) {
 <p style="font-size: 125%; padding-bottom: 8%">Research project focusing on retrieving programming language artifacts related to some natural language queries from a pool of possible programming language artifacts, using dual encoder models.<br>
 Model is built in Python using TensorFlow modules. The research was conducted under the guidance of Dr. Zhe Yu. This work has recently been <a href="https://link.springer.com/article/10.1007/s10664-024-10580-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241030&utm_content=10.1007/s10664-024-10580-3">published in Empirical Software Engineering Journal.</a></p>
 
-<p style="font-size: 135%"><a href="https://github.com/monoshizmkhan/comparabilityTask">Preference Learning (2023-2024)</a></p>
-<p style="font-size: 125%; padding-bottom: 8%">Research project focusing on modelling comparative judgements on text-based data using large language model based architectures. The model is built using PyTorch modules. The research is being conducted under the guidance of Dr. Zhe Yu.</p>
+<p style="font-size: 135%"><a href="https://github.com/hil-se/PairwiseTask">Comparative judgment(2023-Present)</a></p>
+<p style="font-size: 125%; padding-bottom: 8%">Research project focusing on modeling comparative judgments on story point estimation data from software development, using various architectures, including large language model based structures. The framework is built using PyTorch modules. The research is being conducted under the guidance of Dr. Zhe Yu.</p>
 
 
 </div>
@@ -275,8 +277,8 @@ Model is built in Python using TensorFlow modules. The research was conducted un
 <div id="Research" class="tabcontent">
   <p style="font-size: 155%">
 	I am primarily interested in research involving the collaboration between AI and humans to better understand human decision-making and thought processes.<br><br>
-	Throughout my doctoral studies, I have worked on the code search task to retrieve programming language artifacts for natural language queries. I have also been working on the preference learning task of modeling 
-	comparative human decisions through deep learning models.
+	Throughout my doctoral studies, I have worked on the code search task to retrieve programming language artifacts for natural language queries. I have also been working on the task of modeling 
+	comparative human judgments within the task of story point estimation.
   </p>
 </div>
 </div>
