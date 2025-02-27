@@ -181,7 +181,7 @@ function openTab(evt, tabName) {
 <div id="Experience" class="tabcontent">
   <p style="font-size: 155%">
 	<b>Graduate Research Assistant (August 2021 - December 2023, September 2024 - December 2024)</b><br>
-	   I have been working as a graduate research assistant in the Lab of Human-In-the-Loop Software Engineering at Rochester Institute of Technology under the guidance of Dr. Zhe Yu, conducting research primarily on 	   the code search and preference learning tasks.<br><br>
+	   I have been working as a graduate research assistant in the Lab of Human-In-the-Loop Software Engineering at Rochester Institute of Technology under the guidance of Dr. Zhe Yu, conducting research primarily on 	   the code search and comaprative judgment tasks.<br><br>
 	  
 	<b>Graduate Teaching Assistant</b><br>
  	   Worked as a graduate teaching assistant for the following courses -<br>
