@@ -1,8 +1,6 @@
 ### Hello there 👋
 
 
-I am **Monoshiz Mahbub Khan**. I started my PhD in Computing and Information Sciences at Rochester Institute of Technology in Fall 2021. I am also a graduate research assistant at the Lab of Human-in-the-Loop Software Engineering (hil-se). I completed my B.Sc. in Computer Science and Engineering from University of Dhaka in 2020.
-
-Here you will find some of the projects I completed as a part of coursework.
-
-You will also find my undergraduate research project on *Abstractive Text Summarization in Bangla using Deep Learning tools*.
+I am **Monoshiz Mahbub Khan**. I am a PhD Candidate in the Computing and Information Sciences program at Rochester Institute of Technology. I have worked as both a Graduate Research Assistant and a Graduate Teaching Assistant over the years. I have also worked as an Intern at ABB through the DAAD RISE Professional Program 2025. I expect to graduate in May 2025, and am currently looking for full-time opportunities. I would love to connect!
+This repository holds my undergraduate and personal projects. For my doctoral projects, please visit [Lab of Human-In-the-Loop Software Engineering](https://github.com/hil-se).
+For information on my publications, projects, my CV or other details, please visit [my personal website](https://monoshizmk.com/) or [my LinkedIn profile](https://www.linkedin.com/in/monoshiz-mahbub-khan-85959924b/).
